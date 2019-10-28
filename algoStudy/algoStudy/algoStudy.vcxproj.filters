@@ -24,5 +24,8 @@
     <ClCompile Include="프로그래머스_124 나라의 숫자.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로그래머스_숫자 야구.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

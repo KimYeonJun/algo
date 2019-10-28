@@ -121,6 +121,7 @@
     <ClCompile Include="commitTest.cpp" />
     <ClCompile Include="프로그래머스_124 나라의 숫자.cpp" />
     <ClCompile Include="프로그래머스_다리를 지나는 트럭.cpp" />
+    <ClCompile Include="프로그래머스_숫자 야구.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
